@@ -1,4 +1,5 @@
-
+% HECHO POR GATOVOLADOR | GMars7502
+% En este codigo se ultiriza la sumatoria de taylor en el seno y coseno, de estos se saca las demas razones trigonometricas
 % Lineas para ver grafica del seno, con la sucession de taylor()(para ejecutar en el command window)
 % x = linspace(0,2*pi,1000);
 % 
@@ -192,7 +193,8 @@ end
 
 
 fprintf('****************************************************\n\n');
-fprintf('Gracias por usar, esperamos verte pronto ;-)\n\n');
+fprintf('Gracias por usar, esperamos verte pronto ;-)\n');
+fprintf('Hecho por GMars7502  - github;-)\n\n');
 fprintf('****************************************************\n');
 pause(3)
 clear;
