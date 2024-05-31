@@ -2,7 +2,7 @@
 %Utilizado de referencia: https://www.youtube.com/watch?v=CU_Fcgau5Y 
 %canal: Faustinianos
 
-%Creador
+%Autor
 %https://github.com/GMars7502/
 q=1;
 
