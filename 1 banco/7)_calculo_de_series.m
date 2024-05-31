@@ -35,7 +35,7 @@ b = input('Ingresar x2 por favor\n');
      p=p*Primera;
      
      fprintf('la respuesta de p es: P=%5.12f\n',p);
-     fprintf('P = P(%5.12f < %5.12f < %5.12f)',a,p,b);
+     fprintf('P = P(%5.12f < %5.12f < %5.12f)\n',a,p,b);
      
  end
     
