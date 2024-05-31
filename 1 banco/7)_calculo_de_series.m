@@ -8,7 +8,8 @@ q=1;
 
 
 while q==1
-    
+
+%Ingresa a = 45 y b = 50
 a = input('Ingresar x1 por favor\n');
 b = input('Ingresar x2 por favor\n');
     
@@ -19,8 +20,8 @@ b = input('Ingresar x2 por favor\n');
          c=a;a=b;b=c;
      end
      
-     z=1;
-     u=0;
+     z=8;
+     u=45;
      
      
      p=0;
