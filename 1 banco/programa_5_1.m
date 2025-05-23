@@ -1,3 +1,9 @@
+% Segunda version del programa 5 
+% Aquí se añadio otro manera para detener el programa en la busqueda de raices 
+% En que se verificar las derivadas de la función
+%
+%
+
 q=1;
 x=sym('x');
 
